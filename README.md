@@ -1,1 +1,1 @@
-# modelo-de-site
+Repositório criado com o intuito de apresentar um pequeno projeto pessoal que fiz, desenvolver do 0, com apenas HTML e CSS puro, o site da empresa que minha família coordena. O site atual, feito por terceiros, está "no ar" e pode ser acessado através desse link: https://www.funilariamorais.com. Apresento neste projeto, algumas melhorias (ou tentativas :satisfied:), trazendo um design mais moderno e atual. 
